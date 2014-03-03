@@ -13,12 +13,14 @@ Installation
 Der beste Weg um LCMS zu installieren ist das Repo zu klonen und via [composer](https://getcomposer.org/) das [ZF2](http://framework.zend.com/) zu installieren. Wie ihr composer installiert erfahrt ihr [hier](https://getcomposer.org/doc/00-intro.md).
 
 1. Repo klonen
-   `git clone https://github.com/UltimateHulk/LCMS.git`
+
+    `git clone https://github.com/UltimateHulk/LCMS.git`
 2. ZF2 via composer installieren
-   ```
-   php composer.phar self-update
-   php composer.phar self-update
-   ```
+
+    ```
+    php composer.phar self-update
+    php composer.phar self-update
+    ```
 
 ###Web Server Setup
 
