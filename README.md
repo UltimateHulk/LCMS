@@ -19,7 +19,7 @@ Der beste Weg um LCMS zu installieren ist das Repo zu klonen und via [composer](
 
     ```
     php composer.phar self-update
-    php composer.phar self-update
+    php composer.phar install
     ```
 
 ###Web Server Setup
